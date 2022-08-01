@@ -1,10 +1,10 @@
 # Chip-8 Emulator
 
-Very basic, barely tested [https://en.wikipedia.org/wiki/CHIP-8](Chip-8) emulator. My first C++ project.
+Very basic, barely tested [Chip-8](https://en.wikipedia.org/wiki/CHIP-8) emulator. My first C++ project.
 
 ## Usage
 
-```
+```sh
 $ chip8cc <ROM>
 ```
 
